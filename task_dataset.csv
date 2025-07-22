@@ -1,0 +1,501 @@
+task,category,priority
+Send report to gym,Work,High
+Budget for doctor,Finance,Medium
+Call home,Personal,Low
+Pay math bill,Finance,High
+Work on gym project,Academic,Low
+Pay math bill,Finance,Medium
+Go for dentist checkup,Health,High
+Check friend account balance,Finance,High
+Invest in friend,Finance,Medium
+Spend time with doctor,Personal,Low
+Pay home bill,Finance,Medium
+Invest in home,Finance,Medium
+Review notes for friend,Academic,Medium
+Invest in doctor,Finance,High
+Clean the parents,Personal,Medium
+Fix bug in home module,Work,Medium
+Do project workout,Health,High
+Spend time with dentist,Personal,Medium
+Buy groceries for manager,Personal,Medium
+Fix bug in friend module,Work,Low
+Clean the project,Personal,Medium
+Deploy changes to project,Work,Low
+Prepare for doctor exam,Academic,High
+Buy groceries for gym,Personal,Medium
+Pay friend bill,Finance,Medium
+Buy doctor supplements,Health,Medium
+Review notes for math,Academic,Medium
+Transfer money to manager,Finance,Medium
+Transfer money to manager,Finance,Medium
+Buy parents supplements,Health,Medium
+Invest in bank,Finance,High
+Invest in dentist,Finance,Medium
+Pay manager bill,Finance,High
+Prepare for project exam,Academic,Medium
+Attend dentist meeting,Work,Medium
+Update manager documentation,Work,Medium
+Transfer money to project,Finance,Low
+Go for dentist checkup,Health,High
+Submit project assignment,Academic,High
+Buy groceries for parents,Personal,High
+Update home documentation,Work,Medium
+Review notes for gym,Academic,Medium
+Spend time with doctor,Personal,High
+Deploy changes to friend,Work,Medium
+Clean the project,Personal,Medium
+Buy groceries for manager,Personal,High
+Transfer money to dentist,Finance,High
+Buy groceries for bank,Personal,Medium
+Clean the friend,Personal,Medium
+Do parents workout,Health,Low
+Go for friend checkup,Health,Medium
+Attend dentist class,Academic,Low
+Update home documentation,Work,Medium
+Buy groceries for doctor,Personal,High
+Plan trip to doctor,Personal,High
+Transfer money to friend,Finance,Medium
+Invest in home,Finance,Medium
+Work on manager project,Academic,High
+Plan trip to manager,Personal,High
+Go for manager checkup,Health,High
+Deploy changes to doctor,Work,Medium
+Transfer money to bank,Finance,Medium
+Check doctor account balance,Finance,Low
+Invest in manager,Finance,High
+Go for bank checkup,Health,High
+Fix bug in dentist module,Work,Low
+Review notes for project,Academic,Low
+Fix bug in home module,Work,High
+Call gym,Personal,Medium
+Review notes for manager,Academic,High
+Update project documentation,Work,High
+Buy groceries for doctor,Personal,High
+Submit friend assignment,Academic,Medium
+Do bank workout,Health,High
+Take bank medicine,Health,Medium
+Prepare for friend exam,Academic,Medium
+Work on doctor project,Academic,High
+Take manager medicine,Health,Medium
+Submit friend assignment,Academic,Medium
+Take home medicine,Health,Low
+Call friend,Personal,High
+Plan trip to bank,Personal,High
+Do friend workout,Health,Medium
+Check home account balance,Finance,Low
+Deploy changes to manager,Work,Medium
+Review notes for dentist,Academic,Medium
+Attend manager class,Academic,High
+Invest in bank,Finance,Medium
+Deploy changes to doctor,Work,Medium
+Send report to doctor,Work,High
+Submit math assignment,Academic,Medium
+Check parents account balance,Finance,Medium
+Plan trip to bank,Personal,Medium
+Check doctor account balance,Finance,Low
+Go for home checkup,Health,Medium
+Fix bug in home module,Work,High
+Clean the manager,Personal,Low
+Clean the friend,Personal,Low
+Prepare for parents exam,Academic,Medium
+Plan trip to friend,Personal,High
+Send report to dentist,Work,Medium
+Plan trip to dentist,Personal,Medium
+Spend time with home,Personal,Medium
+Budget for gym,Finance,Medium
+Work on bank project,Academic,High
+Attend project class,Academic,Medium
+Clean the math,Personal,Low
+Send report to friend,Work,Low
+Invest in friend,Finance,High
+Take doctor medicine,Health,High
+Schedule friend appointment,Health,Low
+Update dentist documentation,Work,Medium
+Attend parents class,Academic,High
+Budget for project,Finance,Medium
+Buy math supplements,Health,Medium
+Update friend documentation,Work,Medium
+Prepare for bank exam,Academic,Low
+Pay manager bill,Finance,High
+Transfer money to friend,Finance,Low
+Buy groceries for bank,Personal,Medium
+Spend time with gym,Personal,Low
+Deploy changes to friend,Work,Medium
+Plan trip to home,Personal,Medium
+Call friend,Personal,High
+Budget for bank,Finance,High
+Update gym documentation,Work,Medium
+Work on doctor project,Academic,High
+Budget for parents,Finance,Medium
+Take dentist medicine,Health,Medium
+Schedule parents appointment,Health,Low
+Submit home assignment,Academic,High
+Fix bug in manager module,Work,High
+Do project workout,Health,High
+Buy groceries for friend,Personal,Medium
+Deploy changes to parents,Work,High
+Submit bank assignment,Academic,High
+Go for math checkup,Health,Low
+Do dentist workout,Health,Low
+Invest in gym,Finance,High
+Transfer money to math,Finance,High
+Buy groceries for math,Personal,Medium
+Review notes for home,Academic,High
+Pay manager bill,Finance,Medium
+Plan trip to manager,Personal,Low
+Plan trip to gym,Personal,Low
+Go for bank checkup,Health,Low
+Work on math project,Academic,High
+Buy project supplements,Health,Medium
+Deploy changes to manager,Work,Medium
+Pay doctor bill,Finance,Medium
+Plan trip to doctor,Personal,Medium
+Buy groceries for doctor,Personal,Low
+Prepare for project exam,Academic,Low
+Deploy changes to bank,Work,High
+Spend time with project,Personal,Low
+Call project,Personal,High
+Send report to gym,Work,Medium
+Take gym medicine,Health,Medium
+Clean the friend,Personal,High
+Check bank account balance,Finance,High
+Prepare for friend exam,Academic,High
+Prepare for parents exam,Academic,High
+Check manager account balance,Finance,Medium
+Do gym workout,Health,High
+Do parents workout,Health,Medium
+Budget for parents,Finance,Medium
+Schedule gym appointment,Health,Low
+Buy math supplements,Health,Medium
+Buy bank supplements,Health,High
+Budget for dentist,Finance,Medium
+Call bank,Personal,Medium
+Plan trip to parents,Personal,High
+Call manager,Personal,Low
+Buy math supplements,Health,Medium
+Take bank medicine,Health,Low
+Call gym,Personal,Medium
+Invest in doctor,Finance,Medium
+Spend time with project,Personal,Medium
+Schedule friend appointment,Health,Medium
+Update dentist documentation,Work,Low
+Do bank workout,Health,Medium
+Budget for friend,Finance,High
+Take dentist medicine,Health,Medium
+Go for friend checkup,Health,Medium
+Submit gym assignment,Academic,Medium
+Update project documentation,Work,High
+Plan trip to manager,Personal,Medium
+Clean the dentist,Personal,Medium
+Do project workout,Health,Medium
+Spend time with home,Personal,Low
+Deploy changes to doctor,Work,Medium
+Do bank workout,Health,Medium
+Take parents medicine,Health,Low
+Transfer money to math,Finance,Low
+Do parents workout,Health,High
+Prepare for bank exam,Academic,Medium
+Go for gym checkup,Health,Medium
+Do parents workout,Health,Medium
+Invest in doctor,Finance,Medium
+Fix bug in bank module,Work,Medium
+Budget for doctor,Finance,High
+Send report to project,Work,Medium
+Deploy changes to bank,Work,Medium
+Schedule parents appointment,Health,Medium
+Plan trip to manager,Personal,High
+Send report to project,Work,Medium
+Attend friend class,Academic,Medium
+Attend manager meeting,Work,High
+Submit project assignment,Academic,Medium
+Budget for home,Finance,High
+Schedule project appointment,Health,Medium
+Prepare for doctor exam,Academic,Low
+Work on manager project,Academic,Medium
+Invest in manager,Finance,High
+Plan trip to gym,Personal,High
+Update gym documentation,Work,High
+Clean the friend,Personal,Medium
+Fix bug in dentist module,Work,Medium
+Go for parents checkup,Health,Low
+Do project workout,Health,High
+Submit math assignment,Academic,Low
+Submit doctor assignment,Academic,Low
+Submit project assignment,Academic,Medium
+Clean the doctor,Personal,High
+Attend home meeting,Work,Medium
+Budget for parents,Finance,Low
+Prepare for dentist exam,Academic,Medium
+Take manager medicine,Health,High
+Attend friend class,Academic,Medium
+Schedule math appointment,Health,Medium
+Fix bug in home module,Work,Medium
+Prepare for doctor exam,Academic,Low
+Update manager documentation,Work,Low
+Go for bank checkup,Health,Medium
+Buy gym supplements,Health,Medium
+Check doctor account balance,Finance,Medium
+Review notes for math,Academic,High
+Update math documentation,Work,Medium
+Check bank account balance,Finance,High
+Buy dentist supplements,Health,Low
+Transfer money to home,Finance,Medium
+Buy parents supplements,Health,Medium
+Budget for project,Finance,Medium
+Attend friend class,Academic,High
+Clean the friend,Personal,High
+Send report to dentist,Work,High
+Fix bug in math module,Work,Medium
+Transfer money to project,Finance,High
+Buy project supplements,Health,Medium
+Invest in parents,Finance,High
+Buy manager supplements,Health,Medium
+Pay home bill,Finance,Low
+Work on dentist project,Academic,Medium
+Deploy changes to bank,Work,Medium
+Call parents,Personal,Low
+Take manager medicine,Health,High
+Review notes for manager,Academic,Low
+Update doctor documentation,Work,High
+Go for parents checkup,Health,Medium
+Clean the home,Personal,High
+Fix bug in home module,Work,High
+Check gym account balance,Finance,High
+Submit doctor assignment,Academic,Medium
+Call math,Personal,High
+Do gym workout,Health,Medium
+Pay project bill,Finance,Medium
+Buy manager supplements,Health,High
+Buy groceries for parents,Personal,High
+Take home medicine,Health,Medium
+Attend doctor meeting,Work,High
+Budget for gym,Finance,Medium
+Schedule gym appointment,Health,Medium
+Deploy changes to project,Work,Low
+Plan trip to friend,Personal,High
+Pay gym bill,Finance,High
+Check doctor account balance,Finance,High
+Fix bug in project module,Work,High
+Do gym workout,Health,High
+Spend time with dentist,Personal,Low
+Do project workout,Health,High
+Attend math meeting,Work,High
+Check doctor account balance,Finance,Medium
+Attend parents class,Academic,Medium
+Spend time with doctor,Personal,Low
+Prepare for parents exam,Academic,Medium
+Deploy changes to project,Work,High
+Pay bank bill,Finance,Low
+Buy doctor supplements,Health,Medium
+Transfer money to friend,Finance,Low
+Schedule project appointment,Health,Medium
+Attend home meeting,Work,Medium
+Take home medicine,Health,Low
+Buy project supplements,Health,Medium
+Submit project assignment,Academic,High
+Deploy changes to home,Work,Medium
+Clean the home,Personal,Medium
+Pay gym bill,Finance,Medium
+Check math account balance,Finance,Medium
+Budget for manager,Finance,Medium
+Invest in project,Finance,Medium
+Schedule gym appointment,Health,Medium
+Take manager medicine,Health,High
+Clean the parents,Personal,Medium
+Invest in bank,Finance,Medium
+Send report to project,Work,Medium
+Go for project checkup,Health,Medium
+Attend bank class,Academic,High
+Attend home meeting,Work,Medium
+Buy friend supplements,Health,Medium
+Pay parents bill,Finance,Medium
+Check project account balance,Finance,High
+Update gym documentation,Work,Low
+Plan trip to parents,Personal,Medium
+Transfer money to friend,Finance,Medium
+Send report to math,Work,Medium
+Buy gym supplements,Health,High
+Check math account balance,Finance,High
+Do home workout,Health,Low
+Buy groceries for home,Personal,High
+Update project documentation,Work,High
+Clean the home,Personal,Low
+Budget for parents,Finance,High
+Budget for project,Finance,High
+Send report to project,Work,Medium
+Review notes for math,Academic,Low
+Pay bank bill,Finance,High
+Buy dentist supplements,Health,Medium
+Work on friend project,Academic,Medium
+Attend math meeting,Work,Medium
+Work on bank project,Academic,Medium
+Call manager,Personal,Low
+Clean the gym,Personal,Low
+Pay parents bill,Finance,Medium
+Prepare for parents exam,Academic,Medium
+Pay home bill,Finance,Medium
+Review notes for parents,Academic,Medium
+Pay manager bill,Finance,Medium
+Fix bug in math module,Work,Low
+Send report to manager,Work,High
+Do bank workout,Health,Low
+Do parents workout,Health,Medium
+Go for parents checkup,Health,Medium
+Do bank workout,Health,High
+Take project medicine,Health,Medium
+Spend time with math,Personal,High
+Prepare for gym exam,Academic,High
+Work on doctor project,Academic,Low
+Submit doctor assignment,Academic,Medium
+Attend manager meeting,Work,High
+Deploy changes to parents,Work,Medium
+Do bank workout,Health,Medium
+Check bank account balance,Finance,Medium
+Call math,Personal,High
+Clean the project,Personal,Medium
+Pay bank bill,Finance,Medium
+Attend friend meeting,Work,Low
+Attend friend class,Academic,High
+Fix bug in home module,Work,Medium
+Attend friend class,Academic,High
+Check bank account balance,Finance,Low
+Attend manager class,Academic,Low
+Deploy changes to friend,Work,Medium
+Plan trip to bank,Personal,High
+Go for manager checkup,Health,Medium
+Submit math assignment,Academic,Low
+Spend time with home,Personal,High
+Fix bug in doctor module,Work,Medium
+Work on gym project,Academic,High
+Buy friend supplements,Health,High
+Prepare for project exam,Academic,Medium
+Plan trip to gym,Personal,Low
+Call home,Personal,Medium
+Check home account balance,Finance,Medium
+Send report to home,Work,Medium
+Take home medicine,Health,High
+Deploy changes to friend,Work,Medium
+Buy friend supplements,Health,Medium
+Submit gym assignment,Academic,High
+Attend dentist meeting,Work,Low
+Update project documentation,Work,High
+Buy parents supplements,Health,High
+Fix bug in parents module,Work,High
+Review notes for doctor,Academic,Low
+Review notes for project,Academic,Medium
+Call friend,Personal,High
+Submit parents assignment,Academic,High
+Clean the project,Personal,Medium
+Attend doctor class,Academic,Low
+Invest in parents,Finance,Medium
+Plan trip to manager,Personal,Medium
+Clean the home,Personal,Medium
+Spend time with doctor,Personal,Low
+Plan trip to project,Personal,Low
+Invest in dentist,Finance,Medium
+Do project workout,Health,Medium
+Spend time with doctor,Personal,Low
+Fix bug in gym module,Work,Medium
+Attend friend meeting,Work,Medium
+Prepare for home exam,Academic,High
+Clean the math,Personal,Medium
+Take parents medicine,Health,Medium
+Prepare for parents exam,Academic,High
+Attend bank class,Academic,Low
+Budget for friend,Finance,Medium
+Go for math checkup,Health,High
+Send report to bank,Work,High
+Attend math class,Academic,Low
+Invest in friend,Finance,Medium
+Buy manager supplements,Health,High
+Check parents account balance,Finance,High
+Deploy changes to math,Work,Medium
+Attend project class,Academic,Low
+Budget for doctor,Finance,Low
+Submit manager assignment,Academic,Medium
+Spend time with bank,Personal,Low
+Go for bank checkup,Health,Medium
+Plan trip to friend,Personal,Medium
+Attend math class,Academic,High
+Call project,Personal,Medium
+Transfer money to dentist,Finance,Low
+Buy groceries for manager,Personal,High
+Buy groceries for doctor,Personal,Medium
+Go for home checkup,Health,Medium
+Do parents workout,Health,Medium
+Go for doctor checkup,Health,Medium
+Attend math meeting,Work,Medium
+Attend home class,Academic,Medium
+Buy groceries for doctor,Personal,Medium
+Buy groceries for math,Personal,High
+Review notes for bank,Academic,Medium
+Work on doctor project,Academic,Medium
+Budget for home,Finance,Low
+Invest in project,Finance,Low
+Send report to dentist,Work,Medium
+Budget for home,Finance,Medium
+Transfer money to gym,Finance,Low
+Schedule friend appointment,Health,Medium
+Take math medicine,Health,Low
+Schedule gym appointment,Health,High
+Plan trip to parents,Personal,High
+Clean the manager,Personal,Medium
+Take friend medicine,Health,Low
+Schedule home appointment,Health,High
+Send report to gym,Work,High
+Prepare for home exam,Academic,Medium
+Go for project checkup,Health,Low
+Spend time with bank,Personal,High
+Update dentist documentation,Work,Medium
+Buy groceries for parents,Personal,High
+Budget for manager,Finance,High
+Buy math supplements,Health,Low
+Work on home project,Academic,Medium
+Clean the gym,Personal,Medium
+Spend time with project,Personal,High
+Pay gym bill,Finance,Low
+Go for math checkup,Health,High
+Budget for project,Finance,High
+Attend home class,Academic,Medium
+Budget for project,Finance,Medium
+Send report to manager,Work,Low
+Buy groceries for dentist,Personal,High
+Call math,Personal,Low
+Work on gym project,Academic,Medium
+Do doctor workout,Health,High
+Check math account balance,Finance,Medium
+Check doctor account balance,Finance,High
+Work on friend project,Academic,High
+Call bank,Personal,Medium
+Clean the gym,Personal,High
+Clean the manager,Personal,Medium
+Spend time with gym,Personal,Medium
+Transfer money to math,Finance,Medium
+Invest in gym,Finance,Medium
+Review notes for home,Academic,Medium
+Work on math project,Academic,High
+Go for friend checkup,Health,Low
+Buy groceries for doctor,Personal,Medium
+Buy groceries for manager,Personal,Medium
+Update manager documentation,Work,High
+Deploy changes to dentist,Work,Medium
+Go for home checkup,Health,Medium
+Send report to home,Work,High
+Pay gym bill,Finance,Medium
+Submit dentist assignment,Academic,Low
+Clean the doctor,Personal,Low
+Check home account balance,Finance,High
+Plan trip to manager,Personal,Low
+Transfer money to doctor,Finance,Low
+Spend time with dentist,Personal,Low
+Take doctor medicine,Health,Medium
+Submit doctor assignment,Academic,Low
+Fix bug in gym module,Work,Medium
+Check manager account balance,Finance,Medium
+Call dentist,Personal,Low
+Attend home class,Academic,Medium
+Update home documentation,Work,Low
+Plan trip to doctor,Personal,High
+Go for dentist checkup,Health,Medium
+Take manager medicine,Health,Medium
+Review notes for manager,Academic,Low
