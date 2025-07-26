@@ -99,11 +99,16 @@ st.markdown("""
     font-size: 1rem;
 }
 .stMetric > div {
-    background-color: #f3e5f5;
-    border-left: 5px solid #7b1fa2;
+    background-color: #d1c4e9; /* Medium lavender */
+    border-left: 5px solid #6a1b9a; /* Deep purple border */
     padding: 15px;
     border-radius: 8px;
     margin-bottom: 10px;
+    color: #1a1a1a; /* Dark text for contrast */
+    font-weight: bold;
+}
+.stMetric > div:hover {
+    box-shadow: 0 4px 8px rgba(106, 27, 154, 0.3);
 }
 /* Style for completed tasks in the dataframe */
 .stDataFrame td.completed {
