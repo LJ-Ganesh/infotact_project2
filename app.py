@@ -47,50 +47,76 @@ st.set_page_config(page_title="Schedule Buddy", page_icon="🤖", layout="wide")
 # --- Custom CSS ---
 st.markdown("""
     <style>
-        body { background-color: #e0f7fa; }
-        .main { background-color: #f0fbfc; padding: 2rem; border-radius: 10px; }
-        .title { color: #004d61; font-size: 3rem; font-weight: bold; text-align: center; margin-bottom: 30px; }
-        .section-title { color: #01579b; font-size: 1.5rem; font-weight: bold; margin-top: 30px; margin-bottom: 15px;}
-        .task-card { background: #f9f9f9; padding: 1rem; margin: 0.5rem 0; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
-        .sidebar .sidebar-content { background-color: #b2ebf2; }
-        .stButton>button {
-            background-color: #00796b;
-            color: white;
-            border-radius: 8px;
-            padding: 10px 20px;
-            font-size: 1rem;
-            border: none;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-        .stButton>button:hover {
-            background-color: #004d40;
-        }
-        .stTextInput>div>div>input {
-            border-radius: 8px;
-            border: 1px solid #00796b;
-            padding: 10px;
-            font-size: 1rem;
-        }
-        .stMetric > div {
-            background-color: #e0f2f7;
-            border-left: 5px solid #00796b;
-            padding: 15px;
-            border-radius: 8px;
-            margin-bottom: 10px;
-        }
-        /* Style for completed tasks in the dataframe */
-        .stDataFrame td.completed {
-            text-decoration: line-through;
-            color: #888;
-            background-color: #e6ffe6 !important; /* Lighter green for completed */
-        }
-        /* Styles for disabled button */
-        .stButton > button[aria-disabled="true"] {
-            background-color: #cccccc;
-            cursor: not-allowed;
-            color: #666666;
-        }
+    body {
+    background-color: #f3e8ff;
+}
+.main {
+    background-color: #f9f4ff;
+    padding: 2rem;
+    border-radius: 10px;
+}
+.title {
+    color: #4a148c;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.section-title {
+    color: #6a1b9a;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.task-card {
+    background: #ffffff;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+.sidebar .sidebar-content {
+    background-color: #e1bee7;
+}
+.stButton > button {
+    background-color: #7b1fa2;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.stButton > button:hover {
+    background-color: #4a0072;
+}
+.stTextInput > div > div > input {
+    border-radius: 8px;
+    border: 1px solid #7b1fa2;
+    padding: 10px;
+    font-size: 1rem;
+}
+.stMetric > div {
+    background-color: #f3e5f5;
+    border-left: 5px solid #7b1fa2;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+/* Style for completed tasks in the dataframe */
+.stDataFrame td.completed {
+    text-decoration: line-through;
+    color: #888;
+    background-color: #f1f8e9 !important; /* Lighter green for completed */
+}
+/* Styles for disabled button */
+.stButton > button[aria-disabled="true"] {
+    background-color: #d1c4e9;
+    cursor: not-allowed;
+    color: #666666;
+}
     </style>
 """, unsafe_allow_html=True)
 
